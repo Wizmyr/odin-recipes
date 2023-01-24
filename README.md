@@ -1,2 +1,3 @@
 # odin-recipes
-- Implementing the Basics of HTML
+- HTML Foundations
+- CSS Foundations
